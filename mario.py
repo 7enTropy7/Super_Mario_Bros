@@ -1,3 +1,8 @@
+# -*- coding: utf-8 -*-
+"""
+@author: 7enTropy7
+"""
+
 import os
 import neat
 import gym, ppaquette_gym_super_mario
@@ -6,7 +11,7 @@ import multiprocessing as mp
 import warnings
 import time
 
-warnings.filterwarnings("ignore")
+warnings.filterwarnings("ignore") # Ignores all warning messages
 
 level = 'ppaquette/SuperMarioBros-1-1-Tiles-v0'
 gym.logger.set_level(40)
