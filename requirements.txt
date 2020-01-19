@@ -1,0 +1,4 @@
+ppaquette_gym_super_mario==0.0.8
+neat_python==0.92
+gym==0.15.4
+neat==0.4.1
