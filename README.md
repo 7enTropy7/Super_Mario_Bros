@@ -8,6 +8,9 @@ Implemented a Genetically Evolved Neural Network (NEAT) and fitted it inside Mar
 ## Cloning 
 ```bash
 $ git clone https://github.com/7enTropy7/Super_Mario_Bros.git
+```
+## Directory Contents
+```bash
 $ cd Super_Mario_Bros/
 $ tree
 .
